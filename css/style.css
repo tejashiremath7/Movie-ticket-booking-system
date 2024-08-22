@@ -1,0 +1,37 @@
+#header{
+    background-color:#A9333A;
+    min-height: 55px;
+    color: white;
+    padding-top: 12px;
+}
+#header ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+#header ul li{
+    display: inline;
+    padding: 7px;
+}
+#header ul li a{
+    color: white;
+    font-size: 17px;
+    text-align: center;
+    padding: 20px;
+}
+
+#header ul li a:hover{
+    background-color:#39A2DB;
+    font-size: 18px;
+}
+
+#login_form{
+    background-color: burlywood;
+    margin-top:50px;
+    margin-left:500px;
+    padding: 25px;
+}
+
+#card:hover{
+width: 20rem;
+}
